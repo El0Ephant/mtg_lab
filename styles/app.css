@@ -1,14 +1,38 @@
 .main {
     display: flex;
 }
-
 .content {
     flex-grow: 0.6;
 }
-#menu{
+
+#searchNonBasic{
+    display: none;
+    flex-direction: column;
+}
+#searchBasic{
+    display: flex;
+    flex-direction: column;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+#listNonBasic{
     flex-grow: 0.2;
     height: 800px;
-    overflow: hidden;
+    overflow: hidden; /*?????*/
+    overflow-y: scroll;
+    border: black 1px solid;
+}
+#listBasic{
+    flex-grow: 0.2;
+    height: 800px;
+    overflow: hidden; /*?????*/
     overflow-y: scroll;
     border: black 1px solid;
 }
@@ -41,4 +65,22 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+#image {
+    position: absolute;
+    display: none;
+    height: 250px;
+    pointer-events: none;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.placeholder {
+    height: 250px;
+    width: 180px;
+    background-color: gray;
 }
