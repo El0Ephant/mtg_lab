@@ -1,0 +1,2441 @@
+{
+    "object": "list",
+    "total_cards": 19,
+    "has_more": false,
+    "data": [
+        {
+            "object": "card",
+            "id": "068518d2-f061-4061-b208-158e991156b6",
+            "oracle_id": "68865793-daeb-4c55-80cb-12853f9f96c4",
+            "multiverse_ids": [
+                140339
+            ],
+            "mtgo_id": 28485,
+            "mtgo_foil_id": 28486,
+            "tcgplayer_id": 15409,
+            "cardmarket_id": 17792,
+            "name": "Amoeboid Changeling",
+            "lang": "en",
+            "released_at": "2007-10-12",
+            "uri": "https://api.scryfall.com/cards/068518d2-f061-4061-b208-158e991156b6",
+            "scryfall_uri": "https://scryfall.com/card/lrw/51/amoeboid-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/0/6/068518d2-f061-4061-b208-158e991156b6.jpg?1562337184",
+                "normal": "https://cards.scryfall.io/normal/front/0/6/068518d2-f061-4061-b208-158e991156b6.jpg?1562337184",
+                "large": "https://cards.scryfall.io/large/front/0/6/068518d2-f061-4061-b208-158e991156b6.jpg?1562337184",
+                "png": "https://cards.scryfall.io/png/front/0/6/068518d2-f061-4061-b208-158e991156b6.png?1562337184",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/0/6/068518d2-f061-4061-b208-158e991156b6.jpg?1562337184",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/0/6/068518d2-f061-4061-b208-158e991156b6.jpg?1562337184"
+            },
+            "mana_cost": "{1}{U}",
+            "cmc": 2.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\n{T}: Target creature gains all creature types until end of turn.\n{T}: Target creature loses all creature types until end of turn.",
+            "power": "1",
+            "toughness": "1",
+            "colors": [
+                "U"
+            ],
+            "color_identity": [
+                "U"
+            ],
+            "keywords": [
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set": "lrw",
+            "set_name": "Lorwyn",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/lrw?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/068518d2-f061-4061-b208-158e991156b6/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A68865793-daeb-4c55-80cb-12853f9f96c4&unique=prints",
+            "collector_number": "51",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Nils Hamm",
+            "artist_ids": [
+                "c540d1fc-1500-457f-93cf-d6069ee66546"
+            ],
+            "illustration_id": "3d63d2d1-27ee-4d0e-b52f-6a885115e465",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 4425,
+            "penny_rank": 9588,
+            "prices": {
+                "usd": "0.40",
+                "usd_foil": "7.06",
+                "usd_etched": null,
+                "eur": "0.37",
+                "eur_foil": "3.24",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140339&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAmoeboid%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAmoeboid%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Amoeboid+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F15409%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Lorwyn/Amoeboid-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/28485?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "1fe4fba9-5ff4-4e4b-be28-2849fa3c7003",
+            "oracle_id": "767c1f97-03de-474d-9112-e7521ba3b3f3",
+            "multiverse_ids": [
+                370489
+            ],
+            "mtgo_id": 48720,
+            "mtgo_foil_id": 48721,
+            "tcgplayer_id": 68291,
+            "cardmarket_id": 261987,
+            "name": "Avian Changeling",
+            "lang": "en",
+            "released_at": "2013-06-07",
+            "uri": "https://api.scryfall.com/cards/1fe4fba9-5ff4-4e4b-be28-2849fa3c7003",
+            "scryfall_uri": "https://scryfall.com/card/mma/6/avian-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/1/f/1fe4fba9-5ff4-4e4b-be28-2849fa3c7003.jpg?1561966406",
+                "normal": "https://cards.scryfall.io/normal/front/1/f/1fe4fba9-5ff4-4e4b-be28-2849fa3c7003.jpg?1561966406",
+                "large": "https://cards.scryfall.io/large/front/1/f/1fe4fba9-5ff4-4e4b-be28-2849fa3c7003.jpg?1561966406",
+                "png": "https://cards.scryfall.io/png/front/1/f/1fe4fba9-5ff4-4e4b-be28-2849fa3c7003.png?1561966406",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/1/f/1fe4fba9-5ff4-4e4b-be28-2849fa3c7003.jpg?1561966406",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/1/f/1fe4fba9-5ff4-4e4b-be28-2849fa3c7003.jpg?1561966406"
+            },
+            "mana_cost": "{2}{W}",
+            "cmc": 3.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\nFlying",
+            "power": "2",
+            "toughness": "2",
+            "colors": [
+                "W"
+            ],
+            "color_identity": [
+                "W"
+            ],
+            "keywords": [
+                "Changeling",
+                "Flying"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "0b7020f2-336d-4706-9ce6-f6710b9ebd5c",
+            "set": "mma",
+            "set_name": "Modern Masters",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/0b7020f2-336d-4706-9ce6-f6710b9ebd5c",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amma&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/mma?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/1fe4fba9-5ff4-4e4b-be28-2849fa3c7003/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A767c1f97-03de-474d-9112-e7521ba3b3f3&unique=prints",
+            "collector_number": "6",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "Today it flies with the flock. Tomorrow it may wake to find them gone, its body in an unfamiliar form.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Heather Hudson",
+            "artist_ids": [
+                "4441fe52-9e41-40c1-9b74-8510426279ab"
+            ],
+            "illustration_id": "25d3b563-f08f-4b22-95c6-8fcee37037d9",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 8239,
+            "penny_rank": 11127,
+            "prices": {
+                "usd": "0.26",
+                "usd_foil": "0.68",
+                "usd_etched": null,
+                "eur": "0.23",
+                "eur_foil": "0.24",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370489&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DAvian%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DAvian%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Avian+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F68291%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Masters/Avian-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/48720?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec",
+            "oracle_id": "6a3dee57-9912-4c51-872e-2ec47acdaf52",
+            "multiverse_ids": [
+                145804
+            ],
+            "mtgo_id": 28631,
+            "mtgo_foil_id": 28632,
+            "tcgplayer_id": 15445,
+            "cardmarket_id": 17901,
+            "name": "Changeling Berserker",
+            "lang": "en",
+            "released_at": "2007-10-12",
+            "uri": "https://api.scryfall.com/cards/9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec",
+            "scryfall_uri": "https://scryfall.com/card/lrw/160/changeling-berserker?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/9/f/9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec.jpg?1562360477",
+                "normal": "https://cards.scryfall.io/normal/front/9/f/9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec.jpg?1562360477",
+                "large": "https://cards.scryfall.io/large/front/9/f/9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec.jpg?1562360477",
+                "png": "https://cards.scryfall.io/png/front/9/f/9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec.png?1562360477",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/9/f/9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec.jpg?1562360477",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/9/f/9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec.jpg?1562360477"
+            },
+            "mana_cost": "{3}{R}",
+            "cmc": 4.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\nHaste\nChampion a creature (When this enters, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)",
+            "power": "5",
+            "toughness": "3",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [
+                "Haste",
+                "Champion",
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "restricted",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set": "lrw",
+            "set_name": "Lorwyn",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/lrw?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6a3dee57-9912-4c51-872e-2ec47acdaf52&unique=prints",
+            "collector_number": "160",
+            "digital": false,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Warren Mahy",
+            "artist_ids": [
+                "002c739e-aa1f-4c1d-921b-37cb2d1b1c5b"
+            ],
+            "illustration_id": "8f7778d4-af3b-42ac-a4e1-32f68bbf5f15",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 10645,
+            "penny_rank": 13106,
+            "prices": {
+                "usd": "0.66",
+                "usd_foil": "6.35",
+                "usd_etched": null,
+                "eur": "0.34",
+                "eur_foil": "2.85",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=145804&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DChangeling%2BBerserker",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DChangeling%2BBerserker",
+                "edhrec": "https://edhrec.com/route/?cc=Changeling+Berserker"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F15445%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Lorwyn/Changeling-Berserker?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/28631?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "24f0c586-a1a5-4907-801a-7815c4dceb39",
+            "oracle_id": "fc893d4a-debd-4df0-ae83-d3ebd2f0fefe",
+            "multiverse_ids": [
+                145968
+            ],
+            "mtgo_id": 28221,
+            "mtgo_foil_id": 28222,
+            "tcgplayer_id": 15446,
+            "cardmarket_id": 17750,
+            "name": "Changeling Hero",
+            "lang": "en",
+            "released_at": "2007-10-12",
+            "uri": "https://api.scryfall.com/cards/24f0c586-a1a5-4907-801a-7815c4dceb39",
+            "scryfall_uri": "https://scryfall.com/card/lrw/9/changeling-hero?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/2/4/24f0c586-a1a5-4907-801a-7815c4dceb39.jpg?1562341767",
+                "normal": "https://cards.scryfall.io/normal/front/2/4/24f0c586-a1a5-4907-801a-7815c4dceb39.jpg?1562341767",
+                "large": "https://cards.scryfall.io/large/front/2/4/24f0c586-a1a5-4907-801a-7815c4dceb39.jpg?1562341767",
+                "png": "https://cards.scryfall.io/png/front/2/4/24f0c586-a1a5-4907-801a-7815c4dceb39.png?1562341767",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/2/4/24f0c586-a1a5-4907-801a-7815c4dceb39.jpg?1562341767",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/2/4/24f0c586-a1a5-4907-801a-7815c4dceb39.jpg?1562341767"
+            },
+            "mana_cost": "{4}{W}",
+            "cmc": 5.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\nChampion a creature (When this enters, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+            "power": "4",
+            "toughness": "4",
+            "colors": [
+                "W"
+            ],
+            "color_identity": [
+                "W"
+            ],
+            "keywords": [
+                "Lifelink",
+                "Champion",
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "restricted",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set": "lrw",
+            "set_name": "Lorwyn",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/lrw?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/24f0c586-a1a5-4907-801a-7815c4dceb39/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afc893d4a-debd-4df0-ae83-d3ebd2f0fefe&unique=prints",
+            "collector_number": "9",
+            "digital": false,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Jeff Miracola",
+            "artist_ids": [
+                "9b465bde-3656-4495-ace4-af4ce29999ed"
+            ],
+            "illustration_id": "dd4b90dc-a279-4f3a-b910-2d3eb23dba6c",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 13403,
+            "prices": {
+                "usd": "0.22",
+                "usd_foil": "2.14",
+                "usd_etched": null,
+                "eur": "0.14",
+                "eur_foil": "0.81",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=145968&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DChangeling%2BHero",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DChangeling%2BHero",
+                "edhrec": "https://edhrec.com/route/?cc=Changeling+Hero"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F15446%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Lorwyn/Changeling-Hero?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/28221?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "ab499df5-ed76-43ad-81b3-70afd0487ccd",
+            "oracle_id": "a61ef0cc-1da9-49f9-b0dc-01cf9f6205be",
+            "multiverse_ids": [
+                658572
+            ],
+            "mtgo_id": 124715,
+            "tcgplayer_id": 545343,
+            "cardmarket_id": 764835,
+            "name": "Changeling Outcast",
+            "lang": "en",
+            "released_at": "2024-04-19",
+            "uri": "https://api.scryfall.com/cards/ab499df5-ed76-43ad-81b3-70afd0487ccd",
+            "scryfall_uri": "https://scryfall.com/card/otc/128/changeling-outcast?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/a/b/ab499df5-ed76-43ad-81b3-70afd0487ccd.jpg?1712354266",
+                "normal": "https://cards.scryfall.io/normal/front/a/b/ab499df5-ed76-43ad-81b3-70afd0487ccd.jpg?1712354266",
+                "large": "https://cards.scryfall.io/large/front/a/b/ab499df5-ed76-43ad-81b3-70afd0487ccd.jpg?1712354266",
+                "png": "https://cards.scryfall.io/png/front/a/b/ab499df5-ed76-43ad-81b3-70afd0487ccd.png?1712354266",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/a/b/ab499df5-ed76-43ad-81b3-70afd0487ccd.jpg?1712354266",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/a/b/ab499df5-ed76-43ad-81b3-70afd0487ccd.jpg?1712354266"
+            },
+            "mana_cost": "{B}",
+            "cmc": 1.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\nChangeling Outcast can't block and can't be blocked.",
+            "power": "1",
+            "toughness": "1",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+            "set": "otc",
+            "set_name": "Outlaws of Thunder Junction Commander",
+            "set_type": "commander",
+            "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/ab499df5-ed76-43ad-81b3-70afd0487ccd/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa61ef0cc-1da9-49f9-b0dc-01cf9f6205be&unique=prints",
+            "collector_number": "128",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "A mercurial face sows distrust. Distrust reaps a lonely life.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Micah Epstein",
+            "artist_ids": [
+                "957ec398-9a5e-4f54-9090-37a06d57b96c"
+            ],
+            "illustration_id": "190423f8-4771-4e7b-9d0a-144b6ae06658",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 579,
+            "penny_rank": 1478,
+            "prices": {
+                "usd": "1.05",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "0.57",
+                "eur_foil": null,
+                "tix": "0.15"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658572&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DChangeling%2BOutcast",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DChangeling%2BOutcast",
+                "edhrec": "https://edhrec.com/route/?cc=Changeling+Outcast"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F545343%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Outlaws-of-Thunder-Junction/Changeling-Outcast?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/124715?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "fe7e0c9f-000d-494d-86f6-95e8d2b59ac7",
+            "oracle_id": "2977aae2-225d-4f3f-8bf7-535f542a7391",
+            "multiverse_ids": [
+                143230
+            ],
+            "mtgo_id": 28986,
+            "mtgo_foil_id": 28987,
+            "tcgplayer_id": 17962,
+            "cardmarket_id": 18835,
+            "name": "Changeling Sentinel",
+            "lang": "en",
+            "released_at": "2008-02-01",
+            "uri": "https://api.scryfall.com/cards/fe7e0c9f-000d-494d-86f6-95e8d2b59ac7",
+            "scryfall_uri": "https://scryfall.com/card/mor/6/changeling-sentinel?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/f/e/fe7e0c9f-000d-494d-86f6-95e8d2b59ac7.jpg?1562882676",
+                "normal": "https://cards.scryfall.io/normal/front/f/e/fe7e0c9f-000d-494d-86f6-95e8d2b59ac7.jpg?1562882676",
+                "large": "https://cards.scryfall.io/large/front/f/e/fe7e0c9f-000d-494d-86f6-95e8d2b59ac7.jpg?1562882676",
+                "png": "https://cards.scryfall.io/png/front/f/e/fe7e0c9f-000d-494d-86f6-95e8d2b59ac7.png?1562882676",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/f/e/fe7e0c9f-000d-494d-86f6-95e8d2b59ac7.jpg?1562882676",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/f/e/fe7e0c9f-000d-494d-86f6-95e8d2b59ac7.jpg?1562882676"
+            },
+            "mana_cost": "{3}{W}",
+            "cmc": 4.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\nVigilance",
+            "power": "3",
+            "toughness": "2",
+            "colors": [
+                "W"
+            ],
+            "color_identity": [
+                "W"
+            ],
+            "keywords": [
+                "Vigilance",
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "c41550df-7b41-41a3-85ab-8612eb2f168f",
+            "set": "mor",
+            "set_name": "Morningtide",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/c41550df-7b41-41a3-85ab-8612eb2f168f",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amor&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/mor?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/fe7e0c9f-000d-494d-86f6-95e8d2b59ac7/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2977aae2-225d-4f3f-8bf7-535f542a7391&unique=prints",
+            "collector_number": "6",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "There's nothing more unsettling than locking blades with something that looks just like you.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Chuck Lukacs",
+            "artist_ids": [
+                "2bdf4da7-c66c-4c46-a253-284c856ccfab"
+            ],
+            "illustration_id": "6431e96d-ba25-435a-87ba-75b3c2acf87c",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 15922,
+            "prices": {
+                "usd": "0.14",
+                "usd_foil": "0.55",
+                "usd_etched": null,
+                "eur": "0.10",
+                "eur_foil": "0.46",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=143230&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DChangeling%2BSentinel",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DChangeling%2BSentinel",
+                "edhrec": "https://edhrec.com/route/?cc=Changeling+Sentinel"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F17962%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Morningtide/Changeling-Sentinel?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/28986?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "2d5b9719-2861-477e-bb78-225fd03d7bbc",
+            "oracle_id": "c1409a11-3780-40e4-abe6-df53d26b2dd6",
+            "multiverse_ids": [
+                140345
+            ],
+            "mtgo_id": 28723,
+            "mtgo_foil_id": 28724,
+            "tcgplayer_id": 15447,
+            "cardmarket_id": 17941,
+            "name": "Changeling Titan",
+            "lang": "en",
+            "released_at": "2007-10-12",
+            "uri": "https://api.scryfall.com/cards/2d5b9719-2861-477e-bb78-225fd03d7bbc",
+            "scryfall_uri": "https://scryfall.com/card/lrw/200/changeling-titan?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/2/d/2d5b9719-2861-477e-bb78-225fd03d7bbc.jpg?1562342582",
+                "normal": "https://cards.scryfall.io/normal/front/2/d/2d5b9719-2861-477e-bb78-225fd03d7bbc.jpg?1562342582",
+                "large": "https://cards.scryfall.io/large/front/2/d/2d5b9719-2861-477e-bb78-225fd03d7bbc.jpg?1562342582",
+                "png": "https://cards.scryfall.io/png/front/2/d/2d5b9719-2861-477e-bb78-225fd03d7bbc.png?1562342582",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2d5b9719-2861-477e-bb78-225fd03d7bbc.jpg?1562342582",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/2/d/2d5b9719-2861-477e-bb78-225fd03d7bbc.jpg?1562342582"
+            },
+            "mana_cost": "{4}{G}",
+            "cmc": 5.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\nChampion a creature (When this enters, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)",
+            "power": "7",
+            "toughness": "7",
+            "colors": [
+                "G"
+            ],
+            "color_identity": [
+                "G"
+            ],
+            "keywords": [
+                "Champion",
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "restricted",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set": "lrw",
+            "set_name": "Lorwyn",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/lrw?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/2d5b9719-2861-477e-bb78-225fd03d7bbc/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac1409a11-3780-40e4-abe6-df53d26b2dd6&unique=prints",
+            "collector_number": "200",
+            "digital": false,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Jesper Ejsing",
+            "artist_ids": [
+                "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+            ],
+            "illustration_id": "c497c140-6d4a-4ada-bf79-6347d938ba71",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 11741,
+            "penny_rank": 11943,
+            "prices": {
+                "usd": "2.70",
+                "usd_foil": "4.31",
+                "usd_etched": null,
+                "eur": "0.54",
+                "eur_foil": "3.54",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140345&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DChangeling%2BTitan",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DChangeling%2BTitan",
+                "edhrec": "https://edhrec.com/route/?cc=Changeling+Titan"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F15447%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Lorwyn/Changeling-Titan?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/28723?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "803f388a-0f92-4984-ace5-02fbeaa0cf28",
+            "oracle_id": "65c1cac7-87d1-4687-86ba-f7c63c4f8549",
+            "multiverse_ids": [
+                243469
+            ],
+            "mtgo_id": 40126,
+            "mtgo_foil_id": 40127,
+            "tcgplayer_id": 46851,
+            "cardmarket_id": 245770,
+            "name": "Fire-Belly Changeling",
+            "lang": "en",
+            "released_at": "2011-04-01",
+            "uri": "https://api.scryfall.com/cards/803f388a-0f92-4984-ace5-02fbeaa0cf28",
+            "scryfall_uri": "https://scryfall.com/card/ddg/51/fire-belly-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/8/0/803f388a-0f92-4984-ace5-02fbeaa0cf28.jpg?1562922067",
+                "normal": "https://cards.scryfall.io/normal/front/8/0/803f388a-0f92-4984-ace5-02fbeaa0cf28.jpg?1562922067",
+                "large": "https://cards.scryfall.io/large/front/8/0/803f388a-0f92-4984-ace5-02fbeaa0cf28.jpg?1562922067",
+                "png": "https://cards.scryfall.io/png/front/8/0/803f388a-0f92-4984-ace5-02fbeaa0cf28.png?1562922067",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/8/0/803f388a-0f92-4984-ace5-02fbeaa0cf28.jpg?1562922067",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/8/0/803f388a-0f92-4984-ace5-02fbeaa0cf28.jpg?1562922067"
+            },
+            "mana_cost": "{1}{R}",
+            "cmc": 2.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\n{R}: Fire-Belly Changeling gets +1/+0 until end of turn. Activate no more than twice each turn.",
+            "power": "1",
+            "toughness": "1",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "cf842e69-7a05-48e2-adac-fd177087caf5",
+            "set": "ddg",
+            "set_name": "Duel Decks: Knights vs. Dragons",
+            "set_type": "duel_deck",
+            "set_uri": "https://api.scryfall.com/sets/cf842e69-7a05-48e2-adac-fd177087caf5",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Addg&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/ddg?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/803f388a-0f92-4984-ace5-02fbeaa0cf28/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A65c1cac7-87d1-4687-86ba-f7c63c4f8549&unique=prints",
+            "collector_number": "51",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "\"My ears say it hisses. My fingers say it burns.\"\n—Auntie Wort",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Randy Gallegos",
+            "artist_ids": [
+                "a5048cc7-438a-4378-98e4-da99b78e1db0"
+            ],
+            "illustration_id": "7fcdcfa1-7bf8-4fb2-91e8-977c4f1ea4cd",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 9985,
+            "penny_rank": 10309,
+            "prices": {
+                "usd": "0.30",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "0.29",
+                "eur_foil": null,
+                "tix": "0.26"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243469&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DFire-Belly%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DFire-Belly%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Fire-Belly+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F46851%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Duel-Decks-Knights-vs-Dragons/Fire-Belly-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/40126?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "7bc76a7f-516f-4d0b-b024-39d5c8096a9f",
+            "oracle_id": "384611fb-aca2-4e2d-9125-44ea034de08b",
+            "multiverse_ids": [
+                143253
+            ],
+            "mtgo_id": 28988,
+            "mtgo_foil_id": 28989,
+            "tcgplayer_id": 17989,
+            "cardmarket_id": 18952,
+            "name": "Game-Trail Changeling",
+            "lang": "en",
+            "released_at": "2008-02-01",
+            "uri": "https://api.scryfall.com/cards/7bc76a7f-516f-4d0b-b024-39d5c8096a9f",
+            "scryfall_uri": "https://scryfall.com/card/mor/123/game-trail-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/7/b/7bc76a7f-516f-4d0b-b024-39d5c8096a9f.jpg?1562879466",
+                "normal": "https://cards.scryfall.io/normal/front/7/b/7bc76a7f-516f-4d0b-b024-39d5c8096a9f.jpg?1562879466",
+                "large": "https://cards.scryfall.io/large/front/7/b/7bc76a7f-516f-4d0b-b024-39d5c8096a9f.jpg?1562879466",
+                "png": "https://cards.scryfall.io/png/front/7/b/7bc76a7f-516f-4d0b-b024-39d5c8096a9f.png?1562879466",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/7/b/7bc76a7f-516f-4d0b-b024-39d5c8096a9f.jpg?1562879466",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/7/b/7bc76a7f-516f-4d0b-b024-39d5c8096a9f.jpg?1562879466"
+            },
+            "mana_cost": "{3}{G}{G}",
+            "cmc": 5.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\nTrample",
+            "power": "4",
+            "toughness": "4",
+            "colors": [
+                "G"
+            ],
+            "color_identity": [
+                "G"
+            ],
+            "keywords": [
+                "Trample",
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "c41550df-7b41-41a3-85ab-8612eb2f168f",
+            "set": "mor",
+            "set_name": "Morningtide",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/c41550df-7b41-41a3-85ab-8612eb2f168f",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amor&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/mor?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/7bc76a7f-516f-4d0b-b024-39d5c8096a9f/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A384611fb-aca2-4e2d-9125-44ea034de08b&unique=prints",
+            "collector_number": "123",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "\"I pity them, never knowing the pleasures of a single familiar form, but at least they find a noble shape at times.\"\n—Desmera, perfect of Wren's Run",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Martina Pilcerova",
+            "artist_ids": [
+                "30fead7c-da53-4c1b-b514-4be6e5ce487c"
+            ],
+            "illustration_id": "752c1147-949d-4067-879b-b3baafb62312",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 12426,
+            "prices": {
+                "usd": "0.28",
+                "usd_foil": "2.48",
+                "usd_etched": null,
+                "eur": "0.07",
+                "eur_foil": "0.49",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=143253&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DGame-Trail%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DGame-Trail%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Game-Trail+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F17989%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Morningtide/Game-Trail-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/28988?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "7d9f1fda-8a94-48fe-9682-5b2fdbc31bad",
+            "oracle_id": "4e779540-e667-457e-9071-4cbbd777d9a9",
+            "multiverse_ids": [
+                397705
+            ],
+            "mtgo_id": 57024,
+            "mtgo_foil_id": 57025,
+            "tcgplayer_id": 98790,
+            "cardmarket_id": 282928,
+            "name": "Ghostly Changeling",
+            "lang": "en",
+            "released_at": "2015-05-22",
+            "uri": "https://api.scryfall.com/cards/7d9f1fda-8a94-48fe-9682-5b2fdbc31bad",
+            "scryfall_uri": "https://scryfall.com/card/mm2/83/ghostly-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/7/d/7d9f1fda-8a94-48fe-9682-5b2fdbc31bad.jpg?1562264263",
+                "normal": "https://cards.scryfall.io/normal/front/7/d/7d9f1fda-8a94-48fe-9682-5b2fdbc31bad.jpg?1562264263",
+                "large": "https://cards.scryfall.io/large/front/7/d/7d9f1fda-8a94-48fe-9682-5b2fdbc31bad.jpg?1562264263",
+                "png": "https://cards.scryfall.io/png/front/7/d/7d9f1fda-8a94-48fe-9682-5b2fdbc31bad.png?1562264263",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/7/d/7d9f1fda-8a94-48fe-9682-5b2fdbc31bad.jpg?1562264263",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/7/d/7d9f1fda-8a94-48fe-9682-5b2fdbc31bad.jpg?1562264263"
+            },
+            "mana_cost": "{2}{B}",
+            "cmc": 3.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\n{1}{B}: Ghostly Changeling gets +1/+1 until end of turn.",
+            "power": "2",
+            "toughness": "2",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "28cac015-43df-4e88-90d0-95dcdd894834",
+            "set": "mm2",
+            "set_name": "Modern Masters 2015",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/28cac015-43df-4e88-90d0-95dcdd894834",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm2&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/mm2?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/7d9f1fda-8a94-48fe-9682-5b2fdbc31bad/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4e779540-e667-457e-9071-4cbbd777d9a9&unique=prints",
+            "collector_number": "83",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "In desolate places, changelings may take the shape of fancies, or memories, or fears.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Chuck Lukacs",
+            "artist_ids": [
+                "2bdf4da7-c66c-4c46-a253-284c856ccfab"
+            ],
+            "illustration_id": "2dae190c-f0e4-4acd-95b9-3a28dab54f87",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 13601,
+            "penny_rank": 15435,
+            "prices": {
+                "usd": "0.12",
+                "usd_foil": "0.25",
+                "usd_etched": null,
+                "eur": "0.12",
+                "eur_foil": "0.37",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397705&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DGhostly%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DGhostly%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Ghostly+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F98790%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Masters-2015/Ghostly-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/57024?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "6955348b-70e9-49c3-9343-9becf977abe8",
+            "oracle_id": "61b74f82-39f3-4618-b8e7-292058421d1b",
+            "multiverse_ids": [
+                143218
+            ],
+            "mtgo_id": 28984,
+            "mtgo_foil_id": 28985,
+            "tcgplayer_id": 18017,
+            "cardmarket_id": 18896,
+            "name": "Moonglove Changeling",
+            "lang": "en",
+            "released_at": "2008-02-01",
+            "uri": "https://api.scryfall.com/cards/6955348b-70e9-49c3-9343-9becf977abe8",
+            "scryfall_uri": "https://scryfall.com/card/mor/67/moonglove-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/6/9/6955348b-70e9-49c3-9343-9becf977abe8.jpg?1562879033",
+                "normal": "https://cards.scryfall.io/normal/front/6/9/6955348b-70e9-49c3-9343-9becf977abe8.jpg?1562879033",
+                "large": "https://cards.scryfall.io/large/front/6/9/6955348b-70e9-49c3-9343-9becf977abe8.jpg?1562879033",
+                "png": "https://cards.scryfall.io/png/front/6/9/6955348b-70e9-49c3-9343-9becf977abe8.png?1562879033",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/6955348b-70e9-49c3-9343-9becf977abe8.jpg?1562879033",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/6955348b-70e9-49c3-9343-9becf977abe8.jpg?1562879033"
+            },
+            "mana_cost": "{2}{B}",
+            "cmc": 3.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\n{B}: Moonglove Changeling gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy that creature.)",
+            "power": "2",
+            "toughness": "2",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "c41550df-7b41-41a3-85ab-8612eb2f168f",
+            "set": "mor",
+            "set_name": "Morningtide",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/c41550df-7b41-41a3-85ab-8612eb2f168f",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amor&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/mor?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/6955348b-70e9-49c3-9343-9becf977abe8/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61b74f82-39f3-4618-b8e7-292058421d1b&unique=prints",
+            "collector_number": "67",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Wayne England",
+            "artist_ids": [
+                "62dc90c0-4bc2-4d42-ad76-59cad9243566"
+            ],
+            "illustration_id": "6b3fed60-6b90-4050-a817-77866fb031f7",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 12858,
+            "penny_rank": 13435,
+            "prices": {
+                "usd": "0.27",
+                "usd_foil": "3.08",
+                "usd_etched": null,
+                "eur": "0.10",
+                "eur_foil": "1.52",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=143218&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DMoonglove%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DMoonglove%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Moonglove+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F18017%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Morningtide/Moonglove-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/28984?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "18acffb1-c1e8-4729-a350-64823b2f9d29",
+            "oracle_id": "52237e6b-19f6-405c-a668-545c4ccb1b6d",
+            "multiverse_ids": [
+                370508
+            ],
+            "mtgo_id": 48746,
+            "mtgo_foil_id": 48747,
+            "tcgplayer_id": 68326,
+            "cardmarket_id": 262020,
+            "name": "Mothdust Changeling",
+            "lang": "en",
+            "released_at": "2013-06-07",
+            "uri": "https://api.scryfall.com/cards/18acffb1-c1e8-4729-a350-64823b2f9d29",
+            "scryfall_uri": "https://scryfall.com/card/mma/53/mothdust-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/1/8/18acffb1-c1e8-4729-a350-64823b2f9d29.jpg?1561966398",
+                "normal": "https://cards.scryfall.io/normal/front/1/8/18acffb1-c1e8-4729-a350-64823b2f9d29.jpg?1561966398",
+                "large": "https://cards.scryfall.io/large/front/1/8/18acffb1-c1e8-4729-a350-64823b2f9d29.jpg?1561966398",
+                "png": "https://cards.scryfall.io/png/front/1/8/18acffb1-c1e8-4729-a350-64823b2f9d29.png?1561966398",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/1/8/18acffb1-c1e8-4729-a350-64823b2f9d29.jpg?1561966398",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/1/8/18acffb1-c1e8-4729-a350-64823b2f9d29.jpg?1561966398"
+            },
+            "mana_cost": "{U}",
+            "cmc": 1.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\nTap an untapped creature you control: Mothdust Changeling gains flying until end of turn.",
+            "power": "1",
+            "toughness": "1",
+            "colors": [
+                "U"
+            ],
+            "color_identity": [
+                "U"
+            ],
+            "keywords": [
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "0b7020f2-336d-4706-9ce6-f6710b9ebd5c",
+            "set": "mma",
+            "set_name": "Modern Masters",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/0b7020f2-336d-4706-9ce6-f6710b9ebd5c",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amma&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/mma?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/18acffb1-c1e8-4729-a350-64823b2f9d29/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A52237e6b-19f6-405c-a668-545c4ccb1b6d&unique=prints",
+            "collector_number": "53",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "\"Ever seen a changeling fly into a lantern?\"\n—Calydd, kithkin farmer",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Shelly Wan",
+            "artist_ids": [
+                "bc1722f2-95d4-462d-948b-35be540ef4c2"
+            ],
+            "illustration_id": "723dc20f-faeb-4b45-9665-a528347a2f53",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 3296,
+            "penny_rank": 4676,
+            "prices": {
+                "usd": "0.76",
+                "usd_foil": "3.99",
+                "usd_etched": null,
+                "eur": "0.66",
+                "eur_foil": "3.66",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370508&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DMothdust%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DMothdust%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Mothdust+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F68326%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Masters/Mothdust-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/48746?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "6f1d8e26-304b-4571-9b33-7713265d9bbf",
+            "oracle_id": "b9d388ca-1a63-4a11-bf33-9f7b87305a52",
+            "multiverse_ids": [
+                145809
+            ],
+            "mtgo_id": 28635,
+            "mtgo_foil_id": 28636,
+            "tcgplayer_id": 15628,
+            "cardmarket_id": 17881,
+            "name": "Skeletal Changeling",
+            "lang": "en",
+            "released_at": "2007-10-12",
+            "uri": "https://api.scryfall.com/cards/6f1d8e26-304b-4571-9b33-7713265d9bbf",
+            "scryfall_uri": "https://scryfall.com/card/lrw/140/skeletal-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/6/f/6f1d8e26-304b-4571-9b33-7713265d9bbf.jpg?1562352661",
+                "normal": "https://cards.scryfall.io/normal/front/6/f/6f1d8e26-304b-4571-9b33-7713265d9bbf.jpg?1562352661",
+                "large": "https://cards.scryfall.io/large/front/6/f/6f1d8e26-304b-4571-9b33-7713265d9bbf.jpg?1562352661",
+                "png": "https://cards.scryfall.io/png/front/6/f/6f1d8e26-304b-4571-9b33-7713265d9bbf.png?1562352661",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/6/f/6f1d8e26-304b-4571-9b33-7713265d9bbf.jpg?1562352661",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/6/f/6f1d8e26-304b-4571-9b33-7713265d9bbf.jpg?1562352661"
+            },
+            "mana_cost": "{1}{B}",
+            "cmc": 2.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\n{1}{B}: Regenerate Skeletal Changeling.",
+            "power": "1",
+            "toughness": "1",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set": "lrw",
+            "set_name": "Lorwyn",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/lrw?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/6f1d8e26-304b-4571-9b33-7713265d9bbf/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9d388ca-1a63-4a11-bf33-9f7b87305a52&unique=prints",
+            "collector_number": "140",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "Though they lack true flesh and bone of their own, changelings imitate either with equal ease.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Alan Pollack",
+            "artist_ids": [
+                "70c20ea3-5ad6-4082-a337-6e994ae5828e"
+            ],
+            "illustration_id": "7b8fb714-7ce3-4305-8085-439b2e20c1ea",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 8653,
+            "penny_rank": 8228,
+            "prices": {
+                "usd": "0.36",
+                "usd_foil": "5.95",
+                "usd_etched": null,
+                "eur": "0.34",
+                "eur_foil": "2.14",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=145809&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSkeletal%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSkeletal%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Skeletal+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F15628%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Lorwyn/Skeletal-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/28635?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "a72b078e-e324-4775-9d38-08943017a48e",
+            "oracle_id": "87f8b403-765c-4a2a-8b21-edaaaa889234",
+            "multiverse_ids": [
+                145807
+            ],
+            "mtgo_id": 28633,
+            "mtgo_foil_id": 28634,
+            "tcgplayer_id": 15663,
+            "cardmarket_id": 17835,
+            "name": "Turtleshell Changeling",
+            "lang": "en",
+            "released_at": "2007-10-12",
+            "uri": "https://api.scryfall.com/cards/a72b078e-e324-4775-9d38-08943017a48e",
+            "scryfall_uri": "https://scryfall.com/card/lrw/94/turtleshell-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/a/7/a72b078e-e324-4775-9d38-08943017a48e.jpg?1562361919",
+                "normal": "https://cards.scryfall.io/normal/front/a/7/a72b078e-e324-4775-9d38-08943017a48e.jpg?1562361919",
+                "large": "https://cards.scryfall.io/large/front/a/7/a72b078e-e324-4775-9d38-08943017a48e.jpg?1562361919",
+                "png": "https://cards.scryfall.io/png/front/a/7/a72b078e-e324-4775-9d38-08943017a48e.png?1562361919",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/a/7/a72b078e-e324-4775-9d38-08943017a48e.jpg?1562361919",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/a/7/a72b078e-e324-4775-9d38-08943017a48e.jpg?1562361919"
+            },
+            "mana_cost": "{3}{U}",
+            "cmc": 4.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\n{1}{U}: Switch Turtleshell Changeling's power and toughness until end of turn.",
+            "power": "1",
+            "toughness": "4",
+            "colors": [
+                "U"
+            ],
+            "color_identity": [
+                "U"
+            ],
+            "keywords": [
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "restricted",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set": "lrw",
+            "set_name": "Lorwyn",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/lrw?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/a72b078e-e324-4775-9d38-08943017a48e/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A87f8b403-765c-4a2a-8b21-edaaaa889234&unique=prints",
+            "collector_number": "94",
+            "digital": false,
+            "rarity": "uncommon",
+            "flavor_text": "A changeling involuntarily mimics the nearest being at hand, sometimes trading a borrowed shell for borrowed claws.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Ron Spencer",
+            "artist_ids": [
+                "dab52c11-0564-4207-a4a1-c1735c946a65"
+            ],
+            "illustration_id": "97c08063-68ce-4166-a488-c3e195f4a0bb",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 16765,
+            "prices": {
+                "usd": "0.27",
+                "usd_foil": "5.14",
+                "usd_etched": null,
+                "eur": "0.13",
+                "eur_foil": "0.55",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=145807&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DTurtleshell%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DTurtleshell%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Turtleshell+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F15663%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Lorwyn/Turtleshell-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/28633?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "014fbb81-5d54-4f8f-8c91-071521b9cd33",
+            "oracle_id": "65d9b8b6-5215-4037-8e50-e0ca80c5dc9e",
+            "multiverse_ids": [
+                567528
+            ],
+            "tcgplayer_id": 273730,
+            "cardmarket_id": 661788,
+            "name": "Valiant Changeling",
+            "lang": "en",
+            "released_at": "2022-06-10",
+            "uri": "https://api.scryfall.com/cards/014fbb81-5d54-4f8f-8c91-071521b9cd33",
+            "scryfall_uri": "https://scryfall.com/card/clb/711/valiant-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/0/1/014fbb81-5d54-4f8f-8c91-071521b9cd33.jpg?1674141252",
+                "normal": "https://cards.scryfall.io/normal/front/0/1/014fbb81-5d54-4f8f-8c91-071521b9cd33.jpg?1674141252",
+                "large": "https://cards.scryfall.io/large/front/0/1/014fbb81-5d54-4f8f-8c91-071521b9cd33.jpg?1674141252",
+                "png": "https://cards.scryfall.io/png/front/0/1/014fbb81-5d54-4f8f-8c91-071521b9cd33.png?1674141252",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/014fbb81-5d54-4f8f-8c91-071521b9cd33.jpg?1674141252",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/014fbb81-5d54-4f8f-8c91-071521b9cd33.jpg?1674141252"
+            },
+            "mana_cost": "{5}{W}{W}",
+            "cmc": 7.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "This spell costs {1} less to cast for each creature type among creatures you control. This effect can't reduce the amount of mana this spell costs by more than {5}.\nChangeling (This card is every creature type.)\nDouble strike",
+            "power": "3",
+            "toughness": "3",
+            "colors": [
+                "W"
+            ],
+            "color_identity": [
+                "W"
+            ],
+            "keywords": [
+                "Double strike",
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "restricted",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+            "set": "clb",
+            "set_name": "Commander Legends: Battle for Baldur's Gate",
+            "set_type": "draft_innovation",
+            "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/014fbb81-5d54-4f8f-8c91-071521b9cd33/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A65d9b8b6-5215-4037-8e50-e0ca80c5dc9e&unique=prints",
+            "collector_number": "711",
+            "digital": false,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Gabor Szikszai",
+            "artist_ids": [
+                "44c3877f-8771-43dc-9e40-f4c765f59d2e"
+            ],
+            "illustration_id": "3ee979d5-3794-458f-aaae-59900bb60897",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "edhrec_rank": 8568,
+            "penny_rank": 4387,
+            "prices": {
+                "usd": "0.04",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "0.09",
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=567528&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DValiant%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DValiant%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Valiant+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F273730%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Legends-Battle-for-Baldurs-Gate-Extras/Valiant-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Valiant+Changeling&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "4c5a1d73-d102-469b-82ca-ec18f616375e",
+            "oracle_id": "f1929f1f-6aa3-4308-bbff-cab03883ac68",
+            "multiverse_ids": [
+                464063
+            ],
+            "mtgo_id": 72600,
+            "tcgplayer_id": 190634,
+            "cardmarket_id": 374382,
+            "name": "Venomous Changeling",
+            "lang": "en",
+            "released_at": "2019-06-14",
+            "uri": "https://api.scryfall.com/cards/4c5a1d73-d102-469b-82ca-ec18f616375e",
+            "scryfall_uri": "https://scryfall.com/card/mh1/114/venomous-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/4/c/4c5a1d73-d102-469b-82ca-ec18f616375e.jpg?1562201773",
+                "normal": "https://cards.scryfall.io/normal/front/4/c/4c5a1d73-d102-469b-82ca-ec18f616375e.jpg?1562201773",
+                "large": "https://cards.scryfall.io/large/front/4/c/4c5a1d73-d102-469b-82ca-ec18f616375e.jpg?1562201773",
+                "png": "https://cards.scryfall.io/png/front/4/c/4c5a1d73-d102-469b-82ca-ec18f616375e.png?1562201773",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/4/c/4c5a1d73-d102-469b-82ca-ec18f616375e.jpg?1562201773",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/4/c/4c5a1d73-d102-469b-82ca-ec18f616375e.jpg?1562201773"
+            },
+            "mana_cost": "{2}{B}",
+            "cmc": 3.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\nDeathtouch",
+            "power": "1",
+            "toughness": "3",
+            "colors": [
+                "B"
+            ],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [
+                "Changeling",
+                "Deathtouch"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+            "set": "mh1",
+            "set_name": "Modern Horizons",
+            "set_type": "draft_innovation",
+            "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/4c5a1d73-d102-469b-82ca-ec18f616375e/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af1929f1f-6aa3-4308-bbff-cab03883ac68&unique=prints",
+            "collector_number": "114",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "It doesn't contain venom. It is venom.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Aaron Miller",
+            "artist_ids": [
+                "fc021f3d-773a-4706-bbe7-f602324f511f"
+            ],
+            "illustration_id": "155fe44e-6bae-43a4-94de-ff884d88ff4b",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 8500,
+            "penny_rank": 9962,
+            "preview": {
+                "source": "Wizards of the Coast",
+                "source_uri": "https://www.twitch.tv/videos/427047692",
+                "previewed_at": "2019-05-19"
+            },
+            "prices": {
+                "usd": "0.11",
+                "usd_foil": "0.43",
+                "usd_etched": null,
+                "eur": "0.09",
+                "eur_foil": "0.35",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464063&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DVenomous%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DVenomous%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Venomous+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F190634%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Horizons/Venomous-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/72600?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "523500d3-5614-4be8-95c7-d63ca279c1b1",
+            "oracle_id": "b6ddb093-1fff-4648-b7a1-141a3875599c",
+            "multiverse_ids": [
+                370479
+            ],
+            "mtgo_id": 48744,
+            "mtgo_foil_id": 48745,
+            "tcgplayer_id": 68399,
+            "cardmarket_id": 262091,
+            "name": "War-Spike Changeling",
+            "lang": "en",
+            "released_at": "2013-06-07",
+            "uri": "https://api.scryfall.com/cards/523500d3-5614-4be8-95c7-d63ca279c1b1",
+            "scryfall_uri": "https://scryfall.com/card/mma/139/war-spike-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/5/2/523500d3-5614-4be8-95c7-d63ca279c1b1.jpg?1561967342",
+                "normal": "https://cards.scryfall.io/normal/front/5/2/523500d3-5614-4be8-95c7-d63ca279c1b1.jpg?1561967342",
+                "large": "https://cards.scryfall.io/large/front/5/2/523500d3-5614-4be8-95c7-d63ca279c1b1.jpg?1561967342",
+                "png": "https://cards.scryfall.io/png/front/5/2/523500d3-5614-4be8-95c7-d63ca279c1b1.png?1561967342",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/523500d3-5614-4be8-95c7-d63ca279c1b1.jpg?1561967342",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/5/2/523500d3-5614-4be8-95c7-d63ca279c1b1.jpg?1561967342"
+            },
+            "mana_cost": "{3}{R}",
+            "cmc": 4.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\n{R}: War-Spike Changeling gains first strike until end of turn.",
+            "power": "3",
+            "toughness": "3",
+            "colors": [
+                "R"
+            ],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "0b7020f2-336d-4706-9ce6-f6710b9ebd5c",
+            "set": "mma",
+            "set_name": "Modern Masters",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/0b7020f2-336d-4706-9ce6-f6710b9ebd5c",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amma&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/mma?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/523500d3-5614-4be8-95c7-d63ca279c1b1/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab6ddb093-1fff-4648-b7a1-141a3875599c&unique=prints",
+            "collector_number": "139",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "\"Aren't there boggarts enough in Lorwyn? Couldn't it turn into a sheep? Or a sunflower?\"\n—Olly of Goldmeadow",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Mark Poole",
+            "artist_ids": [
+                "bfdeaf09-f915-4058-8e8b-bcac3bc43c33"
+            ],
+            "illustration_id": "aff9f298-f54e-4403-94e8-9a1c69de4125",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 15300,
+            "penny_rank": 16588,
+            "prices": {
+                "usd": "0.11",
+                "usd_foil": "0.57",
+                "usd_etched": null,
+                "eur": "0.14",
+                "eur_foil": "0.24",
+                "tix": "0.05"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370479&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DWar-Spike%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DWar-Spike%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=War-Spike+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F68399%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Masters/War-Spike-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/48744?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "576807eb-47fa-4f08-8982-1c0b3526fdd2",
+            "oracle_id": "c8cf9387-54df-45b1-ad8d-9de57ed8916b",
+            "multiverse_ids": [
+                571497
+            ],
+            "mtgo_id": 101812,
+            "tcgplayer_id": 276264,
+            "cardmarket_id": 664057,
+            "name": "Webweaver Changeling",
+            "lang": "en",
+            "released_at": "2022-07-08",
+            "uri": "https://api.scryfall.com/cards/576807eb-47fa-4f08-8982-1c0b3526fdd2",
+            "scryfall_uri": "https://scryfall.com/card/2x2/164/webweaver-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/5/7/576807eb-47fa-4f08-8982-1c0b3526fdd2.jpg?1673148227",
+                "normal": "https://cards.scryfall.io/normal/front/5/7/576807eb-47fa-4f08-8982-1c0b3526fdd2.jpg?1673148227",
+                "large": "https://cards.scryfall.io/large/front/5/7/576807eb-47fa-4f08-8982-1c0b3526fdd2.jpg?1673148227",
+                "png": "https://cards.scryfall.io/png/front/5/7/576807eb-47fa-4f08-8982-1c0b3526fdd2.png?1673148227",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/576807eb-47fa-4f08-8982-1c0b3526fdd2.jpg?1673148227",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/576807eb-47fa-4f08-8982-1c0b3526fdd2.jpg?1673148227"
+            },
+            "mana_cost": "{3}{G}{G}",
+            "cmc": 5.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)\nReach\nWhen Webweaver Changeling enters, if there are three or more creature cards in your graveyard, you gain 5 life.",
+            "power": "3",
+            "toughness": "5",
+            "colors": [
+                "G"
+            ],
+            "color_identity": [
+                "G"
+            ],
+            "keywords": [
+                "Reach",
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+            "set": "2x2",
+            "set_name": "Double Masters 2022",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/5a645837-b050-449f-ac90-1e7ccbf45031",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A2x2&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/2x2?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/576807eb-47fa-4f08-8982-1c0b3526fdd2/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac8cf9387-54df-45b1-ad8d-9de57ed8916b&unique=prints",
+            "collector_number": "164",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "Eight legs carrying endless phobias.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Nicholas Gregory",
+            "artist_ids": [
+                "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c"
+            ],
+            "illustration_id": "06c89905-bc8d-47c8-abd7-e033c5a91ce5",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 11623,
+            "penny_rank": 16601,
+            "preview": {
+                "source": "Wizards of the Coast",
+                "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/double-masters-2022",
+                "previewed_at": "2022-06-16"
+            },
+            "prices": {
+                "usd": "0.05",
+                "usd_foil": "0.10",
+                "usd_etched": null,
+                "eur": "0.07",
+                "eur_foil": "0.11",
+                "tix": "0.04"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=571497&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DWebweaver%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DWebweaver%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Webweaver+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F276264%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Double-Masters-2022/Webweaver-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/101812?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "aa41edf8-88a1-46dd-8315-b0afe7e14b7e",
+            "oracle_id": "338f0ab6-f744-4e5a-a358-05e71b93758d",
+            "multiverse_ids": [
+                145816
+            ],
+            "mtgo_id": 28645,
+            "mtgo_foil_id": 28646,
+            "tcgplayer_id": 15685,
+            "cardmarket_id": 17983,
+            "name": "Woodland Changeling",
+            "lang": "en",
+            "released_at": "2007-10-12",
+            "uri": "https://api.scryfall.com/cards/aa41edf8-88a1-46dd-8315-b0afe7e14b7e",
+            "scryfall_uri": "https://scryfall.com/card/lrw/242/woodland-changeling?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/a/a/aa41edf8-88a1-46dd-8315-b0afe7e14b7e.jpg?1562362438",
+                "normal": "https://cards.scryfall.io/normal/front/a/a/aa41edf8-88a1-46dd-8315-b0afe7e14b7e.jpg?1562362438",
+                "large": "https://cards.scryfall.io/large/front/a/a/aa41edf8-88a1-46dd-8315-b0afe7e14b7e.jpg?1562362438",
+                "png": "https://cards.scryfall.io/png/front/a/a/aa41edf8-88a1-46dd-8315-b0afe7e14b7e.png?1562362438",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aa41edf8-88a1-46dd-8315-b0afe7e14b7e.jpg?1562362438",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aa41edf8-88a1-46dd-8315-b0afe7e14b7e.jpg?1562362438"
+            },
+            "mana_cost": "{1}{G}",
+            "cmc": 2.0,
+            "type_line": "Creature — Shapeshifter",
+            "oracle_text": "Changeling (This card is every creature type.)",
+            "power": "2",
+            "toughness": "2",
+            "colors": [
+                "G"
+            ],
+            "color_identity": [
+                "G"
+            ],
+            "keywords": [
+                "Changeling"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "not_legal",
+                "timeless": "not_legal",
+                "gladiator": "not_legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "not_legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set": "lrw",
+            "set_name": "Lorwyn",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/30ec97cb-dca9-4bf4-a98b-310f9d8ceaff",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alrw&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/lrw?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/aa41edf8-88a1-46dd-8315-b0afe7e14b7e/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A338f0ab6-f744-4e5a-a358-05e71b93758d&unique=prints",
+            "collector_number": "242",
+            "digital": false,
+            "rarity": "common",
+            "flavor_text": "Changelings cannot resist the draw of a new shape, even if doing so would be in their best interests.",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Franz Vohwinkel",
+            "artist_ids": [
+                "3a243c17-3baa-4b53-9599-645311cd7d3d"
+            ],
+            "illustration_id": "1ee91ff2-df4b-4611-a1c7-fb070cd1abc9",
+            "border_color": "black",
+            "frame": "2003",
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "edhrec_rank": 7995,
+            "penny_rank": 11101,
+            "prices": {
+                "usd": "0.50",
+                "usd_foil": "6.07",
+                "usd_etched": null,
+                "eur": "0.37",
+                "eur_foil": "4.76",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=145816&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DWoodland%2BChangeling",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DWoodland%2BChangeling",
+                "edhrec": "https://edhrec.com/route/?cc=Woodland+Changeling"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F15685%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Lorwyn/Woodland-Changeling?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/28645?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        }
+    ]
+}

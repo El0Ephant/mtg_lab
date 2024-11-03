@@ -1,8 +1,8 @@
 import * as d3 from "d3";
-class ManaCostStats {
+export default class ManaCostStatsWidget {
     constructor() {
     }
-    buildStats(element, data){
+    static buildStats(element, data){
         const margin = { top: 30, right: 30, bottom: 70, left: 60 };
         const width = 460 - margin.left - margin.right;
         const height = 400 - margin.top - margin.bottom;
@@ -63,4 +63,3 @@ class ManaCostStats {
             .text("Mana Cost");
     }
 }
-export {ManaCostStats};

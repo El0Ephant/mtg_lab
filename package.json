@@ -3,10 +3,14 @@
     "start": "parcel index.html --no-cache",
     "test": "jest",
     "coverage": "jest --collect-coverage",
-    "build": "parcel build index.html --dist-dir docs --public-url ./ --no-cache"
+    "build": "parcel build index.html --dist-dir docs --public-url ./ --no-cache",
+    "babel": "babel src --out-dir bin --source-maps"
   },
   "devDependencies": {
-    "@babel/core": "^7.19.1",
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/plugin-transform-react-jsx": "^7.25.9",
+    "@babel/preset-env": "^7.26.0",
     "@parcel/babel-preset-env": "^2.7.0",
     "assert": "^2.1.0",
     "babel-jest": "^29.0.3",
@@ -31,6 +35,8 @@
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.8",
     "d3": "^7.6.1",
+    "immer": "^10.1.1",
+    "immutable": "^4.3.7",
     "mithril": "^2.2.8"
   }
 }

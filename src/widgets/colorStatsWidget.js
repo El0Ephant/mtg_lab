@@ -1,12 +1,12 @@
 import * as d3 from "d3";
-class ColorStats {
+export default class ColorStatsWidget {
 
     constructor() {
     }
 
-    buildStats(element, data){
-        const width = 200;
-        const height = 200;
+    static buildStats(element, data) {
+        const width = 500;
+        const height = 500;
         const radius = Math.min(width, height) / 2;
 
         const color = d3.scaleOrdinal()
@@ -19,11 +19,13 @@ class ColorStats {
 
         const arc = d3.arc()
             .innerRadius(0)
-            .outerRadius(radius);
-        const label = document.createElement('label')
-        label.textContent = "Deck Mana Color Distribution";
-        label.classList.add("colorLabel");
-        element.appendChild(label)
+            .outerRadius(radius*0.8);
+
+        // const label = document.createElement('label')
+        // label.textContent = "Deck Mana Color Distribution";
+        // label.classList.add("colorLabel");
+        // element.appendChild(label)
+
         const svg = d3.select(element)
             .append("svg")
             .attr("width", width)
@@ -41,7 +43,12 @@ class ColorStats {
             .attr("d", arc)
             .attr("fill", d => color(d.data.color));
 
+        svg.append("text")
+            .attr("text-anchor", "middle")
+            .attr("x", 0)
+            .attr("y", -235)
+            .text("MTG Deck Mana Cost Distribution");
+
     }
 
 }
-export { ColorStats };

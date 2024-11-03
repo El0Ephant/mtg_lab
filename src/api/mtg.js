@@ -5,16 +5,16 @@ class Mtg {
         
     }
 
-    loadCards(searchMap){
+    async loadCards(searchMap){
         const searchQuery = this.searchQueryFromMap(searchMap);
         const params = {
             'q': searchQuery,
             'Accept': '*/*'
         };
         const URLParams = (new URLSearchParams(params).toString()).replaceAll('%2B', '+');
-        return fetch(`${this.baseUrl}/cards/search?` + URLParams)
-            .then(response=>response.json())
-            .then(json=>json.data);
+        const response = await fetch(`${this.baseUrl}/cards/search?` + URLParams);
+        const json = await response.json();
+        return json.data;
     }
 
     searchQueryFromMap(searchMap) {

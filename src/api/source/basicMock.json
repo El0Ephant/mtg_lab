@@ -1,0 +1,1469 @@
+{
+    "object": "list",
+    "total_cards": 12,
+    "has_more": false,
+    "data": [
+        {
+            "object": "card",
+            "id": "12f6-401a-b1aa-ddff11cb9378",
+            "oracle_id": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+            "multiverse_ids": [],
+            "tcgplayer_id": 589311,
+            "name": "Forest",
+            "lang": "en",
+            "released_at": "2024-11-15",
+            "uri": "https://api.scryfall.com/cards/d232fcc2-12f6-401a-b1aa-ddff11cb9378",
+            "scryfall_uri": "https://scryfall.com/card/fdn/280/forest?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/d/2/d232fcc2-12f6-401a-b1aa-ddff11cb9378.jpg?1729887049",
+                "normal": "https://cards.scryfall.io/normal/front/d/2/d232fcc2-12f6-401a-b1aa-ddff11cb9378.jpg?1729887049",
+                "large": "https://cards.scryfall.io/large/front/d/2/d232fcc2-12f6-401a-b1aa-ddff11cb9378.jpg?1729887049",
+                "png": "https://cards.scryfall.io/png/front/d/2/d232fcc2-12f6-401a-b1aa-ddff11cb9378.png?1729887049",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/d/2/d232fcc2-12f6-401a-b1aa-ddff11cb9378.jpg?1729887049",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/d/2/d232fcc2-12f6-401a-b1aa-ddff11cb9378.jpg?1729887049"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Land — Forest",
+            "oracle_text": "({T}: Add {G}.)",
+            "colors": [],
+            "color_identity": [
+                "G"
+            ],
+            "keywords": [],
+            "produced_mana": [
+                "G"
+            ],
+            "legalities": {
+                "standard": "legal",
+                "future": "legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "legal",
+                "brawl": "legal",
+                "alchemy": "legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "arena",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+            "set": "fdn",
+            "set_name": "Foundations",
+            "set_type": "core",
+            "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/d232fcc2-12f6-401a-b1aa-ddff11cb9378/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6&unique=prints",
+            "collector_number": "280",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Rebecca Guay",
+            "artist_ids": [
+                "f8f662fa-d597-46a3-afb2-91d6e13243e2"
+            ],
+            "illustration_id": "9d8d1329-0e61-41a4-abc2-2d7e334e1188",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DForest",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DForest",
+                "edhrec": "https://edhrec.com/route/?cc=Forest"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589311%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Forest&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Forest&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "17e2b637-72b1-4457-aaba-66d51107be4c",
+            "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+            "multiverse_ids": [],
+            "tcgplayer_id": 589306,
+            "name": "Island",
+            "lang": "en",
+            "released_at": "2024-11-15",
+            "uri": "https://api.scryfall.com/cards/17e2b637-72b1-4457-aaba-66d51107be4c",
+            "scryfall_uri": "https://scryfall.com/card/fdn/274/island?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/1/7/17e2b637-72b1-4457-aaba-66d51107be4c.jpg?1729888078",
+                "normal": "https://cards.scryfall.io/normal/front/1/7/17e2b637-72b1-4457-aaba-66d51107be4c.jpg?1729888078",
+                "large": "https://cards.scryfall.io/large/front/1/7/17e2b637-72b1-4457-aaba-66d51107be4c.jpg?1729888078",
+                "png": "https://cards.scryfall.io/png/front/1/7/17e2b637-72b1-4457-aaba-66d51107be4c.png?1729888078",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/17e2b637-72b1-4457-aaba-66d51107be4c.jpg?1729888078",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/1/7/17e2b637-72b1-4457-aaba-66d51107be4c.jpg?1729888078"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Land — Island",
+            "oracle_text": "({T}: Add {U}.)",
+            "colors": [],
+            "color_identity": [
+                "U"
+            ],
+            "keywords": [],
+            "produced_mana": [
+                "U"
+            ],
+            "legalities": {
+                "standard": "legal",
+                "future": "legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "legal",
+                "brawl": "legal",
+                "alchemy": "legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "arena",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+            "set": "fdn",
+            "set_name": "Foundations",
+            "set_type": "core",
+            "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/17e2b637-72b1-4457-aaba-66d51107be4c/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2c6aa39-2d2a-459c-a555-fb48ba993373&unique=prints",
+            "collector_number": "274",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "John Avon",
+            "artist_ids": [
+                "798f3932-30e0-4420-aa3f-db4d613f89ca"
+            ],
+            "illustration_id": "37ba7594-ad90-4022-b5c4-cb9c62d7971d",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DIsland",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DIsland",
+                "edhrec": "https://edhrec.com/route/?cc=Island"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589306%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Island&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Island&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "279df7e2-2a3b-464a-a7df-e91da28e3a8c",
+            "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+            "multiverse_ids": [],
+            "tcgplayer_id": 589309,
+            "name": "Mountain",
+            "lang": "en",
+            "released_at": "2024-11-15",
+            "uri": "https://api.scryfall.com/cards/279df7e2-2a3b-464a-a7df-e91da28e3a8c",
+            "scryfall_uri": "https://scryfall.com/card/fdn/278/mountain?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/2/7/279df7e2-2a3b-464a-a7df-e91da28e3a8c.jpg?1729888757",
+                "normal": "https://cards.scryfall.io/normal/front/2/7/279df7e2-2a3b-464a-a7df-e91da28e3a8c.jpg?1729888757",
+                "large": "https://cards.scryfall.io/large/front/2/7/279df7e2-2a3b-464a-a7df-e91da28e3a8c.jpg?1729888757",
+                "png": "https://cards.scryfall.io/png/front/2/7/279df7e2-2a3b-464a-a7df-e91da28e3a8c.png?1729888757",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/2/7/279df7e2-2a3b-464a-a7df-e91da28e3a8c.jpg?1729888757",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/2/7/279df7e2-2a3b-464a-a7df-e91da28e3a8c.jpg?1729888757"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Land — Mountain",
+            "oracle_text": "({T}: Add {R}.)",
+            "colors": [],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "produced_mana": [
+                "R"
+            ],
+            "legalities": {
+                "standard": "legal",
+                "future": "legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "legal",
+                "brawl": "legal",
+                "alchemy": "legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "arena",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+            "set": "fdn",
+            "set_name": "Foundations",
+            "set_type": "core",
+            "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/279df7e2-2a3b-464a-a7df-e91da28e3a8c/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+            "collector_number": "278",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Piotr Dura",
+            "artist_ids": [
+                "aff176e8-1d15-432e-ad1d-207a474decba"
+            ],
+            "illustration_id": "13aca180-37c3-43aa-b2e2-d37a4b5ea775",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DMountain",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DMountain",
+                "edhrec": "https://edhrec.com/route/?cc=Mountain"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589309%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mountain&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mountain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3",
+            "oracle_id": "bc71ebf6-2056-41f7-be35-b2e5c34afa99",
+            "multiverse_ids": [],
+            "tcgplayer_id": 589305,
+            "name": "Plains",
+            "lang": "en",
+            "released_at": "2024-11-15",
+            "uri": "https://api.scryfall.com/cards/4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3",
+            "scryfall_uri": "https://scryfall.com/card/fdn/272/plains?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/4/e/4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3.jpg?1729889194",
+                "normal": "https://cards.scryfall.io/normal/front/4/e/4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3.jpg?1729889194",
+                "large": "https://cards.scryfall.io/large/front/4/e/4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3.jpg?1729889194",
+                "png": "https://cards.scryfall.io/png/front/4/e/4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3.png?1729889194",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/4/e/4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3.jpg?1729889194",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/4/e/4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3.jpg?1729889194"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Land — Plains",
+            "oracle_text": "({T}: Add {W}.)",
+            "colors": [],
+            "color_identity": [
+                "W"
+            ],
+            "keywords": [],
+            "produced_mana": [
+                "W"
+            ],
+            "legalities": {
+                "standard": "legal",
+                "future": "legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "legal",
+                "brawl": "legal",
+                "alchemy": "legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "arena",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+            "set": "fdn",
+            "set_name": "Foundations",
+            "set_type": "core",
+            "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/4ef17ed4-a9b5-4b8e-b4cb-2ecb7e5898c3/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints",
+            "collector_number": "272",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Rebecca Guay",
+            "artist_ids": [
+                "f8f662fa-d597-46a3-afb2-91d6e13243e2"
+            ],
+            "illustration_id": "48dfe1ee-3559-41ca-bdad-629a7005199c",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DPlains",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DPlains",
+                "edhrec": "https://edhrec.com/route/?cc=Plains"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589305%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Plains&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Plains&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "ca17acea-f079-4e53-8176-a2f5c5c408a1",
+            "oracle_id": "5f0d3be8-e63e-4ade-ae58-6b0c14f2ce6d",
+            "multiverse_ids": [
+                503904
+            ],
+            "mtgo_id": 87919,
+            "arena_id": 75335,
+            "tcgplayer_id": 230146,
+            "cardmarket_id": 530282,
+            "name": "Snow-Covered Forest",
+            "lang": "en",
+            "released_at": "2021-02-05",
+            "uri": "https://api.scryfall.com/cards/ca17acea-f079-4e53-8176-a2f5c5c408a1",
+            "scryfall_uri": "https://scryfall.com/card/khm/284/snow-covered-forest?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/c/a/ca17acea-f079-4e53-8176-a2f5c5c408a1.jpg?1723228318",
+                "normal": "https://cards.scryfall.io/normal/front/c/a/ca17acea-f079-4e53-8176-a2f5c5c408a1.jpg?1723228318",
+                "large": "https://cards.scryfall.io/large/front/c/a/ca17acea-f079-4e53-8176-a2f5c5c408a1.jpg?1723228318",
+                "png": "https://cards.scryfall.io/png/front/c/a/ca17acea-f079-4e53-8176-a2f5c5c408a1.png?1723228318",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/c/a/ca17acea-f079-4e53-8176-a2f5c5c408a1.jpg?1723228318",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/c/a/ca17acea-f079-4e53-8176-a2f5c5c408a1.jpg?1723228318"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Snow Land — Forest",
+            "oracle_text": "({T}: Add {G}.)",
+            "colors": [],
+            "color_identity": [
+                "G"
+            ],
+            "keywords": [],
+            "produced_mana": [
+                "G"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "legal",
+                "predh": "legal"
+            },
+            "games": [
+                "arena",
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "43057fad-b1c1-437f-bc48-0045bce6d8c9",
+            "set": "khm",
+            "set_name": "Kaldheim",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/43057fad-b1c1-437f-bc48-0045bce6d8c9",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/khm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/ca17acea-f079-4e53-8176-a2f5c5c408a1/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5f0d3be8-e63e-4ade-ae58-6b0c14f2ce6d&unique=prints",
+            "collector_number": "284",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Adam Paquette",
+            "artist_ids": [
+                "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+            ],
+            "illustration_id": "b65c5dfb-fc5b-4ca9-b937-eae7ba395b34",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "snow"
+            ],
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "prices": {
+                "usd": "0.66",
+                "usd_foil": "0.61",
+                "usd_etched": null,
+                "eur": "0.69",
+                "eur_foil": "0.93",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503904&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BForest",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BForest",
+                "edhrec": "https://edhrec.com/route/?cc=Snow-Covered+Forest"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F230146%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Kaldheim/Snow-Covered-Forest-V1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/87919?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "3bfa5ebc-5623-4eec-89ea-dc187489ee4a",
+            "oracle_id": "5b2460a5-6ae5-4cad-ba94-1a9e98e6e4c0",
+            "multiverse_ids": [
+                503898
+            ],
+            "mtgo_id": 87907,
+            "arena_id": 75329,
+            "tcgplayer_id": 230148,
+            "cardmarket_id": 530267,
+            "name": "Snow-Covered Island",
+            "lang": "en",
+            "released_at": "2021-02-05",
+            "uri": "https://api.scryfall.com/cards/3bfa5ebc-5623-4eec-89ea-dc187489ee4a",
+            "scryfall_uri": "https://scryfall.com/card/khm/278/snow-covered-island?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/3/b/3bfa5ebc-5623-4eec-89ea-dc187489ee4a.jpg?1631053379",
+                "normal": "https://cards.scryfall.io/normal/front/3/b/3bfa5ebc-5623-4eec-89ea-dc187489ee4a.jpg?1631053379",
+                "large": "https://cards.scryfall.io/large/front/3/b/3bfa5ebc-5623-4eec-89ea-dc187489ee4a.jpg?1631053379",
+                "png": "https://cards.scryfall.io/png/front/3/b/3bfa5ebc-5623-4eec-89ea-dc187489ee4a.png?1631053379",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/3/b/3bfa5ebc-5623-4eec-89ea-dc187489ee4a.jpg?1631053379",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/3/b/3bfa5ebc-5623-4eec-89ea-dc187489ee4a.jpg?1631053379"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Snow Land — Island",
+            "oracle_text": "({T}: Add {U}.)",
+            "colors": [],
+            "color_identity": [
+                "U"
+            ],
+            "keywords": [],
+            "produced_mana": [
+                "U"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "legal",
+                "predh": "legal"
+            },
+            "games": [
+                "arena",
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "43057fad-b1c1-437f-bc48-0045bce6d8c9",
+            "set": "khm",
+            "set_name": "Kaldheim",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/43057fad-b1c1-437f-bc48-0045bce6d8c9",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/khm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/3bfa5ebc-5623-4eec-89ea-dc187489ee4a/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5b2460a5-6ae5-4cad-ba94-1a9e98e6e4c0&unique=prints",
+            "collector_number": "278",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Piotr Dura",
+            "artist_ids": [
+                "aff176e8-1d15-432e-ad1d-207a474decba"
+            ],
+            "illustration_id": "3b6bfcc2-75e3-40ac-be3f-7b0acdbb85df",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "snow"
+            ],
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "preview": {
+                "source": "Wizards of the Coast",
+                "source_uri": "https://www.twitch.tv/videos/864684586",
+                "previewed_at": "2021-01-07"
+            },
+            "prices": {
+                "usd": "0.81",
+                "usd_foil": "1.21",
+                "usd_etched": null,
+                "eur": "1.09",
+                "eur_foil": "1.26",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503898&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BIsland",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BIsland",
+                "edhrec": "https://edhrec.com/route/?cc=Snow-Covered+Island"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F230148%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Kaldheim/Snow-Covered-Island-V1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/87907?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "5474e67c-628f-41b0-aa31-3d85a267265a",
+            "oracle_id": "ca9f660b-e07d-4f42-a46e-abd0ca72510c",
+            "multiverse_ids": [
+                503902
+            ],
+            "mtgo_id": 87915,
+            "arena_id": 75333,
+            "tcgplayer_id": 230150,
+            "cardmarket_id": 530277,
+            "name": "Snow-Covered Mountain",
+            "lang": "en",
+            "released_at": "2021-02-05",
+            "uri": "https://api.scryfall.com/cards/5474e67c-628f-41b0-aa31-3d85a267265a",
+            "scryfall_uri": "https://scryfall.com/card/khm/282/snow-covered-mountain?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.jpg?1631053480",
+                "normal": "https://cards.scryfall.io/normal/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.jpg?1631053480",
+                "large": "https://cards.scryfall.io/large/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.jpg?1631053480",
+                "png": "https://cards.scryfall.io/png/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.png?1631053480",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.jpg?1631053480",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.jpg?1631053480"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Snow Land — Mountain",
+            "oracle_text": "({T}: Add {R}.)",
+            "colors": [],
+            "color_identity": [
+                "R"
+            ],
+            "keywords": [],
+            "produced_mana": [
+                "R"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "legal",
+                "predh": "legal"
+            },
+            "games": [
+                "arena",
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "43057fad-b1c1-437f-bc48-0045bce6d8c9",
+            "set": "khm",
+            "set_name": "Kaldheim",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/43057fad-b1c1-437f-bc48-0045bce6d8c9",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/khm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/5474e67c-628f-41b0-aa31-3d85a267265a/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aca9f660b-e07d-4f42-a46e-abd0ca72510c&unique=prints",
+            "collector_number": "282",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Adam Paquette",
+            "artist_ids": [
+                "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+            ],
+            "illustration_id": "b23f5fc3-4379-44e8-ad94-fd74fcaa09b0",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "snow"
+            ],
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "prices": {
+                "usd": "0.38",
+                "usd_foil": "0.54",
+                "usd_etched": null,
+                "eur": "0.52",
+                "eur_foil": "0.79",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503902&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BMountain",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BMountain",
+                "edhrec": "https://edhrec.com/route/?cc=Snow-Covered+Mountain"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F230150%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Kaldheim/Snow-Covered-Mountain-V1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/87915?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "afd2730f-878e-47ee-ad2a-73f8fa4e0794",
+            "oracle_id": "ac8cc74d-e43b-4118-bba0-dfa8b9c04d45",
+            "multiverse_ids": [
+                503896
+            ],
+            "mtgo_id": 87903,
+            "arena_id": 75327,
+            "tcgplayer_id": 230147,
+            "cardmarket_id": 530262,
+            "name": "Snow-Covered Plains",
+            "lang": "en",
+            "released_at": "2021-02-05",
+            "uri": "https://api.scryfall.com/cards/afd2730f-878e-47ee-ad2a-73f8fa4e0794",
+            "scryfall_uri": "https://scryfall.com/card/khm/276/snow-covered-plains?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/a/f/afd2730f-878e-47ee-ad2a-73f8fa4e0794.jpg?1631053316",
+                "normal": "https://cards.scryfall.io/normal/front/a/f/afd2730f-878e-47ee-ad2a-73f8fa4e0794.jpg?1631053316",
+                "large": "https://cards.scryfall.io/large/front/a/f/afd2730f-878e-47ee-ad2a-73f8fa4e0794.jpg?1631053316",
+                "png": "https://cards.scryfall.io/png/front/a/f/afd2730f-878e-47ee-ad2a-73f8fa4e0794.png?1631053316",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/a/f/afd2730f-878e-47ee-ad2a-73f8fa4e0794.jpg?1631053316",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/a/f/afd2730f-878e-47ee-ad2a-73f8fa4e0794.jpg?1631053316"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Snow Land — Plains",
+            "oracle_text": "({T}: Add {W}.)",
+            "colors": [],
+            "color_identity": [
+                "W"
+            ],
+            "keywords": [],
+            "produced_mana": [
+                "W"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "legal",
+                "predh": "legal"
+            },
+            "games": [
+                "arena",
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "43057fad-b1c1-437f-bc48-0045bce6d8c9",
+            "set": "khm",
+            "set_name": "Kaldheim",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/43057fad-b1c1-437f-bc48-0045bce6d8c9",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/khm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/afd2730f-878e-47ee-ad2a-73f8fa4e0794/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aac8cc74d-e43b-4118-bba0-dfa8b9c04d45&unique=prints",
+            "collector_number": "276",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Sarah Finnigan",
+            "artist_ids": [
+                "e31f5891-08f7-4e5a-bac9-8b4570b8c1ab"
+            ],
+            "illustration_id": "409213f9-3f69-4025-acbd-40b8f0dc8445",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "snow"
+            ],
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "prices": {
+                "usd": "0.24",
+                "usd_foil": "0.34",
+                "usd_etched": null,
+                "eur": "0.22",
+                "eur_foil": "0.51",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503896&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BPlains",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BPlains",
+                "edhrec": "https://edhrec.com/route/?cc=Snow-Covered+Plains"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F230147%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Kaldheim/Snow-Covered-Plains-V1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/87903?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "6aa85af8-15f5-4620-8aea-0b45c28372ed",
+            "oracle_id": "d8239a86-7184-4005-ba1e-2dddcd756c47",
+            "multiverse_ids": [
+                503900
+            ],
+            "mtgo_id": 87911,
+            "arena_id": 75331,
+            "tcgplayer_id": 230149,
+            "cardmarket_id": 530272,
+            "name": "Snow-Covered Swamp",
+            "lang": "en",
+            "released_at": "2021-02-05",
+            "uri": "https://api.scryfall.com/cards/6aa85af8-15f5-4620-8aea-0b45c28372ed",
+            "scryfall_uri": "https://scryfall.com/card/khm/280/snow-covered-swamp?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/6/a/6aa85af8-15f5-4620-8aea-0b45c28372ed.jpg?1631053431",
+                "normal": "https://cards.scryfall.io/normal/front/6/a/6aa85af8-15f5-4620-8aea-0b45c28372ed.jpg?1631053431",
+                "large": "https://cards.scryfall.io/large/front/6/a/6aa85af8-15f5-4620-8aea-0b45c28372ed.jpg?1631053431",
+                "png": "https://cards.scryfall.io/png/front/6/a/6aa85af8-15f5-4620-8aea-0b45c28372ed.png?1631053431",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/6/a/6aa85af8-15f5-4620-8aea-0b45c28372ed.jpg?1631053431",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/6/a/6aa85af8-15f5-4620-8aea-0b45c28372ed.jpg?1631053431"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Snow Land — Swamp",
+            "oracle_text": "({T}: Add {B}.)",
+            "colors": [],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "produced_mana": [
+                "B"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "legal",
+                "predh": "legal"
+            },
+            "games": [
+                "arena",
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "43057fad-b1c1-437f-bc48-0045bce6d8c9",
+            "set": "khm",
+            "set_name": "Kaldheim",
+            "set_type": "expansion",
+            "set_uri": "https://api.scryfall.com/sets/43057fad-b1c1-437f-bc48-0045bce6d8c9",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/khm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/6aa85af8-15f5-4620-8aea-0b45c28372ed/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad8239a86-7184-4005-ba1e-2dddcd756c47&unique=prints",
+            "collector_number": "280",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Adam Paquette",
+            "artist_ids": [
+                "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+            ],
+            "illustration_id": "c98feb84-c9a6-428e-ac9f-0ed1b5b69312",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "snow"
+            ],
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "prices": {
+                "usd": "0.44",
+                "usd_foil": "0.55",
+                "usd_etched": null,
+                "eur": "0.45",
+                "eur_foil": "0.77",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503900&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BSwamp",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BSwamp",
+                "edhrec": "https://edhrec.com/route/?cc=Snow-Covered+Swamp"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F230149%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Kaldheim/Snow-Covered-Swamp-V1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/87911?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "87870792-e429-4eba-8193-cdce5c7b6c55",
+            "oracle_id": "46a07b53-ff58-4bd6-80dd-ded2eb0e29a3",
+            "multiverse_ids": [
+                662381
+            ],
+            "mtgo_id": 126477,
+            "arena_id": 91080,
+            "tcgplayer_id": 548383,
+            "cardmarket_id": 759788,
+            "name": "Snow-Covered Wastes",
+            "lang": "en",
+            "released_at": "2024-06-14",
+            "uri": "https://api.scryfall.com/cards/87870792-e429-4eba-8193-cdce5c7b6c55",
+            "scryfall_uri": "https://scryfall.com/card/mh3/229/snow-covered-wastes?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/8/7/87870792-e429-4eba-8193-cdce5c7b6c55.jpg?1717013055",
+                "normal": "https://cards.scryfall.io/normal/front/8/7/87870792-e429-4eba-8193-cdce5c7b6c55.jpg?1717013055",
+                "large": "https://cards.scryfall.io/large/front/8/7/87870792-e429-4eba-8193-cdce5c7b6c55.jpg?1717013055",
+                "png": "https://cards.scryfall.io/png/front/8/7/87870792-e429-4eba-8193-cdce5c7b6c55.png?1717013055",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/8/7/87870792-e429-4eba-8193-cdce5c7b6c55.jpg?1717013055",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/8/7/87870792-e429-4eba-8193-cdce5c7b6c55.jpg?1717013055"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Snow Land",
+            "oracle_text": "{T}: Add {C}.",
+            "colors": [],
+            "color_identity": [],
+            "keywords": [],
+            "produced_mana": [
+                "C"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "not_legal",
+                "explorer": "not_legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "not_legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "not_legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo",
+                "arena"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": false,
+            "variation": false,
+            "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+            "set": "mh3",
+            "set_name": "Modern Horizons 3",
+            "set_type": "draft_innovation",
+            "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/87870792-e429-4eba-8193-cdce5c7b6c55/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A46a07b53-ff58-4bd6-80dd-ded2eb0e29a3&unique=prints",
+            "collector_number": "229",
+            "digital": false,
+            "rarity": "uncommon",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Mark Poole",
+            "artist_ids": [
+                "bfdeaf09-f915-4058-8e8b-bcac3bc43c33"
+            ],
+            "illustration_id": "134a9ef4-e082-4518-8903-b2aaf47748f1",
+            "border_color": "black",
+            "frame": "2015",
+            "frame_effects": [
+                "snow"
+            ],
+            "full_art": false,
+            "textless": false,
+            "booster": true,
+            "story_spotlight": false,
+            "prices": {
+                "usd": "0.36",
+                "usd_foil": "0.39",
+                "usd_etched": null,
+                "eur": "0.22",
+                "eur_foil": "0.37",
+                "tix": "0.03"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662381&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BWastes",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSnow-Covered%2BWastes",
+                "edhrec": "https://edhrec.com/route/?cc=Snow-Covered+Wastes"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F548383%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Horizons-3/Snow-Covered-Wastes?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/126477?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "319bc1f0-ee42-44e5-b08b-735613ded2ba",
+            "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+            "multiverse_ids": [],
+            "tcgplayer_id": 589308,
+            "name": "Swamp",
+            "lang": "en",
+            "released_at": "2024-11-15",
+            "uri": "https://api.scryfall.com/cards/319bc1f0-ee42-44e5-b08b-735613ded2ba",
+            "scryfall_uri": "https://scryfall.com/card/fdn/276/swamp?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.jpg?1729890169",
+                "normal": "https://cards.scryfall.io/normal/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.jpg?1729890169",
+                "large": "https://cards.scryfall.io/large/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.jpg?1729890169",
+                "png": "https://cards.scryfall.io/png/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.png?1729890169",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.jpg?1729890169",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/319bc1f0-ee42-44e5-b08b-735613ded2ba.jpg?1729890169"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Land — Swamp",
+            "oracle_text": "({T}: Add {B}.)",
+            "colors": [],
+            "color_identity": [
+                "B"
+            ],
+            "keywords": [],
+            "produced_mana": [
+                "B"
+            ],
+            "legalities": {
+                "standard": "legal",
+                "future": "legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "legal",
+                "brawl": "legal",
+                "alchemy": "legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "legal",
+                "predh": "legal"
+            },
+            "games": [
+                "paper",
+                "arena",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": true,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil",
+                "foil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+            "set": "fdn",
+            "set_name": "Foundations",
+            "set_type": "core",
+            "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/319bc1f0-ee42-44e5-b08b-735613ded2ba/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints",
+            "collector_number": "276",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Mike Bierek",
+            "artist_ids": [
+                "e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7"
+            ],
+            "illustration_id": "e7e7a627-2665-427d-96b6-1268f860c898",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "prices": {
+                "usd": null,
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": null,
+                "eur_foil": null,
+                "tix": null
+            },
+            "related_uris": {
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSwamp",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSwamp",
+                "edhrec": "https://edhrec.com/route/?cc=Swamp"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F589308%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Swamp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Swamp&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        },
+        {
+            "object": "card",
+            "id": "8d479a83-16f7-425c-9873-b900f39ed620",
+            "oracle_id": "05d24b0c-904a-46b6-b42a-96a4d91a0dd4",
+            "multiverse_ids": [
+                625460
+            ],
+            "mtgo_id": 114451,
+            "tcgplayer_id": 506726,
+            "cardmarket_id": 723712,
+            "name": "Wastes",
+            "lang": "en",
+            "released_at": "2023-08-04",
+            "uri": "https://api.scryfall.com/cards/8d479a83-16f7-425c-9873-b900f39ed620",
+            "scryfall_uri": "https://scryfall.com/card/cmm/1055/wastes?utm_source=api",
+            "layout": "normal",
+            "highres_image": true,
+            "image_status": "highres_scan",
+            "image_uris": {
+                "small": "https://cards.scryfall.io/small/front/8/d/8d479a83-16f7-425c-9873-b900f39ed620.jpg?1712284443",
+                "normal": "https://cards.scryfall.io/normal/front/8/d/8d479a83-16f7-425c-9873-b900f39ed620.jpg?1712284443",
+                "large": "https://cards.scryfall.io/large/front/8/d/8d479a83-16f7-425c-9873-b900f39ed620.jpg?1712284443",
+                "png": "https://cards.scryfall.io/png/front/8/d/8d479a83-16f7-425c-9873-b900f39ed620.png?1712284443",
+                "art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8d479a83-16f7-425c-9873-b900f39ed620.jpg?1712284443",
+                "border_crop": "https://cards.scryfall.io/border_crop/front/8/d/8d479a83-16f7-425c-9873-b900f39ed620.jpg?1712284443"
+            },
+            "mana_cost": "",
+            "cmc": 0.0,
+            "type_line": "Basic Land",
+            "oracle_text": "{T}: Add {C}.",
+            "colors": [],
+            "color_identity": [],
+            "keywords": [],
+            "produced_mana": [
+                "C"
+            ],
+            "legalities": {
+                "standard": "not_legal",
+                "future": "not_legal",
+                "historic": "legal",
+                "timeless": "legal",
+                "gladiator": "legal",
+                "pioneer": "legal",
+                "explorer": "legal",
+                "modern": "legal",
+                "legacy": "legal",
+                "pauper": "legal",
+                "vintage": "legal",
+                "penny": "not_legal",
+                "commander": "legal",
+                "oathbreaker": "legal",
+                "standardbrawl": "not_legal",
+                "brawl": "legal",
+                "alchemy": "not_legal",
+                "paupercommander": "legal",
+                "duel": "legal",
+                "oldschool": "not_legal",
+                "premodern": "not_legal",
+                "predh": "not_legal"
+            },
+            "games": [
+                "paper",
+                "mtgo"
+            ],
+            "reserved": false,
+            "foil": false,
+            "nonfoil": true,
+            "finishes": [
+                "nonfoil"
+            ],
+            "oversized": false,
+            "promo": false,
+            "reprint": true,
+            "variation": false,
+            "set_id": "cd05036f-2698-43e6-a48e-5c8d82f0a551",
+            "set": "cmm",
+            "set_name": "Commander Masters",
+            "set_type": "masters",
+            "set_uri": "https://api.scryfall.com/sets/cd05036f-2698-43e6-a48e-5c8d82f0a551",
+            "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acmm&unique=prints",
+            "scryfall_set_uri": "https://scryfall.com/sets/cmm?utm_source=api",
+            "rulings_uri": "https://api.scryfall.com/cards/8d479a83-16f7-425c-9873-b900f39ed620/rulings",
+            "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A05d24b0c-904a-46b6-b42a-96a4d91a0dd4&unique=prints",
+            "collector_number": "1055",
+            "digital": false,
+            "rarity": "common",
+            "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+            "artist": "Jason Felix",
+            "artist_ids": [
+                "af42a44c-8ec3-47a7-9047-5d29ddad186d"
+            ],
+            "illustration_id": "27777a6f-cf59-4515-bcc4-8a6020d0d865",
+            "border_color": "black",
+            "frame": "2015",
+            "full_art": false,
+            "textless": false,
+            "booster": false,
+            "story_spotlight": false,
+            "prices": {
+                "usd": "0.58",
+                "usd_foil": null,
+                "usd_etched": null,
+                "eur": "0.32",
+                "eur_foil": null,
+                "tix": "0.04"
+            },
+            "related_uris": {
+                "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=625460&printed=false",
+                "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DWastes",
+                "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DWastes",
+                "edhrec": "https://edhrec.com/route/?cc=Wastes"
+            },
+            "purchase_uris": {
+                "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F506726%3Fpage%3D1",
+                "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Masters-Extras/Wastes-V1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+                "cardhoarder": "https://www.cardhoarder.com/cards/114451?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+            }
+        }
+    ]
+}
