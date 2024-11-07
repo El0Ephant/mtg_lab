@@ -2,14 +2,12 @@ import Immutable from "immutable";
 
 import * as deckActions from "./deckActions";
 
-import { produce, enableMapSet } from "immer"
-
-
 const initialState = {
     lands: Immutable.Map(),
     landsAmounts: Immutable.Map(),
     nonLands: Immutable.Map(),
     nonLandsAmounts: Immutable.Map(),
+    format: "standard"
 }
 
 function _addCard(card, objects, amounts, isLand) {
@@ -84,6 +82,11 @@ export default function deckReducer(state = initialState, action) {
             }
         }
 
+        case deckActions.DECK_FORMAT_CHANGED:
+            return {
+                ...state,
+                format: action.payload,
+            };
         default:
             return state;
     }

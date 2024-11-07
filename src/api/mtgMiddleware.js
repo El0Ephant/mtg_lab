@@ -5,7 +5,7 @@ import * as searchSelectors from '../features/search/state/searchSelectors.js'
 const mtg = new Mtg();
 
 let saveTimer;
-let debounceTime = 500;
+const debounceTime = 500;
 
 const debounce = (callback) => {
   if (saveTimer) {
@@ -20,42 +20,40 @@ const debounce = (callback) => {
 
 const mtgMiddleware = (store) => {
   return (next) => {
-    return (action) => {
-      console.log(`Middleware action: ${action.type}`)
+    return async (action) => {
 
       if (action.type === searchActions.SEARCH_REQUESTED) {
         next(action);
-        console.log(`middleware search ${searchSelectors.selectUiSearch(store.getState())}`)
-        mtg.loadCards({
-          '-type': 'basic',
-          'name': searchSelectors.selectUiSearch(store.getState()),
-          'format': searchSelectors.selectUiFormat(store.getState())
-        }).then(
-          (cards) => {
-            console.log(`search succeded ${searchSelectors.selectUiSearch(store.getState())}`)
-            store.dispatch(searchActions.searchSucceded(cards))
-          },
 
-          (error) => {
-            store.dispatch(searchActions.searchFailed(error))
-          },
-        )
+        try {
+
+          debounce(async () => {
+            const cards = await mtg.loadCards({
+              '-type': 'basic',
+              'name': searchSelectors.selectUiSearch(store.getState()),
+              'format': searchSelectors.selectUiFormat(store.getState())
+            })
+            store.dispatch(searchActions.searchSucceded(cards))
+          })
+
+
+        }
+        catch (error) {
+          store.dispatch(searchActions.searchFailed(error))
+        }
         return;
       }
 
       if (action.type === searchActions.BASIC_SEARCH_REQUESTED) {
         next(action);
-        console.log(`middleware basic search ${searchSelectors.selectUiSearch(store.getState())}`)
-        const cards = mtg.loadCards({ 'type': 'basic' }).then(
-          (cards) => {
-            console.log(`middleware basic search succeded ${searchSelectors.selectUiSearch(store.getState())}`)
-            store.dispatch(searchActions.basicSearchSucceded(cards))
-          },
+        try {
+          const cards = await mtg.loadCards({ 'type': 'basic' })
+          store.dispatch(searchActions.basicSearchSucceded(cards))
+        }
+        catch (error) {
+          store.dispatch(searchActions.searchFailed(error))
+        }
 
-          (error) => {
-            store.dispatch(searchActions.searchFailed(error))
-          },
-        )
         return;
       }
 

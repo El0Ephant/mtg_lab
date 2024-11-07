@@ -1,6 +1,7 @@
 import m from "mithril";
+import WiseComponent from "../../../wiseComponent";
 
-export default class SearchForm {
+export default class SearchForm extends WiseComponent {
     search;
     format;
 
@@ -11,7 +12,6 @@ export default class SearchForm {
     view(vnode) {
         const attrs = vnode.attrs;
 
-        const requeststate = attrs.requeststate;
         const onsearchchange = attrs.onsearchchange;
         const onformatchange = attrs.onformatchange;
 

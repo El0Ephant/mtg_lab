@@ -1,20 +1,18 @@
-import Immutable from "immutable"
-// TODO: RESELECT
-export const selectDeck = state => {
+import { createSelector } from 'reselect'
+
+export const selectDeck = createSelector([state => state.deck.nonLands,
+state => state.deck.lands,
+state => state.deck.nonLandsAmounts,
+state => state.deck.landsAmounts
+], (nonLands, lands, nonLandsAmounts, landsAmounts) => {
+    //console.log("Reselect deck")
     return {
-        cards: [...state.deck.nonLands.values(), ...state.deck.lands.values()],
-        amounts: [...state.deck.nonLandsAmounts.values(), ...state.deck.landsAmounts.values()]
+        cards: [...nonLands.values(), ...lands.values()],
+        amounts: [...nonLandsAmounts.values(), ...landsAmounts.values()]
     }
 }
+)
 
-const emptyColorData = [
-    { color: 'W', count: 0 },
-    { color: 'U', count: 0 },
-    { color: 'B', count: 0 },
-    { color: 'R', count: 0 },
-    { color: 'G', count: 0 },
-    { color: 'C', count: 0 }
-]
 const colorToIndex = {
     W: 0,
     U: 1,
@@ -24,28 +22,37 @@ const colorToIndex = {
     C: 5
 };
 
-// TODO: RESELECT
-export const selectColorData = (state) => {
-    const cards = state.deck.nonLands;
-    const result = structuredClone(emptyColorData);
-    
-    for (const keyValue of cards) {
-        const id = keyValue[0];
-        const card = keyValue[1];
+const emptyColorData = [
+    { color: 'W', count: 0 },
+    { color: 'U', count: 0 },
+    { color: 'B', count: 0 },
+    { color: 'R', count: 0 },
+    { color: 'G', count: 0 },
+    { color: 'C', count: 0 }
+]
 
-        
-        if (card.color_identity.empty) {
-            result['C'].count += state.deck.nonLandsAmounts.get(id);
-            break;
+export const selectColorData = createSelector(
+    [state => state.deck.nonLands,
+    state => state.deck.nonLandsAmounts],
+    (cards, amounts) => {
+        //console.log("Reselect color")
+        const result = structuredClone(emptyColorData);
+
+        for (const keyValue of cards) {
+            const id = keyValue[0];
+            const card = keyValue[1];
+
+
+            if (card.color_identity.empty) {
+                result['C'].count += amounts.get(id);
+                break;
+            }
+            for (const color of card.color_identity) {
+                result[colorToIndex[color]].count += amounts.get(id);
+            }
         }
-        for (const color of card.color_identity) {
-            console.log(state.deck.nonLandsAmounts.get(id));
-            result[colorToIndex[color]].count += state.deck.nonLandsAmounts.get(id);
-            console.log(result[colorToIndex[color]].count);
-        }
-    }
-    return result;
-}
+        return result;
+    })
 
 
 const emptyCostData = [
@@ -59,19 +66,70 @@ const emptyCostData = [
     { cost: '7+', count: 0 }
 ]
 
-// TODO: RESELECT
-export const selectCostData = (state) => {
-    const cards = state.deck.nonLands;
-    const result = structuredClone(emptyCostData);
-    
-    for (const keyValue of cards) {
-        const card = keyValue[1]
-        const id = keyValue[0];
+export const selectCostData = createSelector(
+    [
+        state => state.deck.nonLands,
+        state => state.deck.nonLandsAmounts
+    ], (cards, amounts) => {
+        //console.log("Reselect cost")
+        const result = structuredClone(emptyCostData);
 
-        if (card.cmc >= 7) {
-            result[7].count += state.deck.nonLandsAmounts.get(id);
+        for (const keyValue of cards) {
+            const card = keyValue[1]
+            const id = keyValue[0];
+
+            if (card.cmc >= 7) {
+                result[7].count += amounts.get(id);
+            }
+            else result[card.cmc].count += amounts.get(id);
         }
-        else result[card.cmc].count += state.deck.nonLandsAmounts.get(id);
+        return result;
+    })
+
+
+export const selectDeckConsistency = createSelector([
+    state => state.deck.nonLands,
+    state => state.deck.nonLandsAmounts,
+    state => state.deck.lands,
+    state => state.deck.landsAmounts,
+    state => state.deck.format
+], (nonLands,
+    nonLandsAmounts,
+    lands,
+    landsAmounts,
+    format) => {
+    console.log('Reselect errors')
+
+    const errors = [];
+
+    let alreadyIllegal = false;
+    for (const card of nonLands.values()) {
+        if (card.legalities[format] === 'not_legal') {
+            errors.push('Contains illegal cards')
+            alreadyIllegal  = true
+            break;
+        }
     }
-    return result;
-}
+    if (!alreadyIllegal) {
+        for (const card of lands.values()) {
+            if (card.legalities[format] === 'not_legal') {
+                errors.push('Contains illegal cards')
+                break;
+            }
+        }
+    }
+
+    let amount = 0
+    for (const val of nonLandsAmounts.values()) {
+        amount += val
+    }
+    for (const val of landsAmounts.values()) {
+        amount += val
+    }
+
+    if (amount < 60) {
+        errors.push('Contains less then 60 cards')
+    }
+
+    return errors;
+})

@@ -4,8 +4,9 @@ import ColorStatsWidget from "../../../widgets/colorStatsWidget";
 
 import * as deckSelectors from "../state/deckSelectors";
 import store from "../../../store";
+import WiseComponent from "../../../wiseComponent";
 
-export default class Stats {
+export default class Stats extends WiseComponent {
     view(vnode) {
         return (<div id="stats">
             <h2>Stats</h2>

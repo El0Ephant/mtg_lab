@@ -6,20 +6,21 @@ import Stats from "./features/deck/components/stats.js";
 import * as searchSelectors from "./features/search/state/searchSelectors.js"
 import * as deckSelectors from "./features/deck/state/deckSelectors.js"
 import { store } from "./store.js"
+import WiseComponent from "./wiseComponent.js";
 
-export default class App {
-    view(vnode) {
-
-        const attrs = vnode.attrs;
+export default class App extends WiseComponent{
+    view() {
+        const showbasics = searchSelectors.selectUiShowBasics(store.getState());
+        const deck = deckSelectors.selectDeck(store.getState());
         return (
             <>
                 <header>
                     MTG Deck Builder
                 </header>
                 <main class='main'>
-                    <Search showBasics={searchSelectors.selectUiShowBasics(store.getState())}>
+                    <Search showBasics={showbasics}>
                     </Search>
-                    <Deck deck={deckSelectors.selectDeck(store.getState())}>
+                    <Deck deck={deck}>
                     </Deck>
                 </main>
                 <Stats></Stats>

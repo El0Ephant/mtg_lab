@@ -1,4 +1,4 @@
-#search{
+.column{
     display: flex;
     flex-direction: column;
 }
@@ -11,13 +11,10 @@
     border: black 1px solid;
 }
 
-.content {
-    flex-grow: 0.6;
-}
 
 #grid {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 10px;
 
     flex-grow: 0.2;
@@ -25,6 +22,8 @@
     overflow: hidden;
     overflow-y: scroll;
     border: black 1px solid;
+
+    flex-grow: 0.6;
 }
 
 .center {

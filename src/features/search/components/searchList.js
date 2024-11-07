@@ -1,15 +1,15 @@
 import m from "mithril";
 
 import requestState from "../state/requestState";
+import WiseComponent from "../../../wiseComponent";
 
-export default class SearchList {
+export default class SearchList extends WiseComponent {
     view(vnode) {
         const attrs = vnode.attrs;
 
         const cards = attrs.cards;
         const onadd = attrs.onadd;
         const requeststate = attrs.requeststate;
-        console.log("SEARCHLIST BUILD")
 
         switch (requeststate) {
             case requestState.finished:

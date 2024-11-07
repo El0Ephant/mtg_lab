@@ -14,10 +14,7 @@ const initialState = {
     }
 }
 
-const mock = new MtgMock();
-
 export default function searchResultReducer(state = initialState, action) {
-    console.log(`Reducer action: ${action.type}`)
     switch (action.type) {
         case searchActions.SEARCH_REQUESTED:
             return produce(state, state => {
@@ -25,6 +22,7 @@ export default function searchResultReducer(state = initialState, action) {
             })
         case searchActions.SEARCH_SUCCEDED:
             return produce(state, state => {
+                console.log("SUCCEDED")
                 state.nonBasics.cards = action.payload;
                 state.nonBasics.requestState = requestState.finished;
             })
